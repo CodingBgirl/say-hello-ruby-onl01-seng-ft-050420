@@ -12,9 +12,9 @@ end
 def tip_calculator(price, tip)
   tip_amount = price * tip
   
-  price = 
+  price = price + tip_amount
   
-  puts "The tip amount is #{} and the total is #{}"
+  puts "The tip amount is #{tip_amount} and the total is #{}"
 end
 
 ## test will run this
