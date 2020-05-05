@@ -9,8 +9,12 @@ end
 # and 
 # say_hello() --> "Hello Ruby Programmer"
 
-def tax_calculator
+def tax_calculator(price, tip)
+  
+  price
+  
+  puts
 end
 
 ## test will run this
-tax_calculator(60)
+tax_calculator(60, .15)
