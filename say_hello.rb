@@ -10,3 +10,7 @@ end
 # say_hello() --> "Hello Ruby Programmer"
 
 def tax_calculator
+end
+
+
+tax_calculator(60)
