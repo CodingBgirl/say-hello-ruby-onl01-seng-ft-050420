@@ -18,4 +18,4 @@ def tip_calculator(price, tip)
 end
 
 ## test will run this
-tip_calculator(60, .15)
+tip_calculator(60, 0.15)
