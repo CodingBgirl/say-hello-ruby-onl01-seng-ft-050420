@@ -4,7 +4,7 @@ def say_hello(name="Ruby Programmer")
   puts "Hello #{name}!"
 end
 
-# To pass it needs to be
+# To pass test it needs to be
 # say_hello("Ibiene") --> "Hello Ibiene"
 # and 
 # say_hello() --> "Hello Ruby Programmer"
