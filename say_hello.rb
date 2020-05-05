@@ -13,7 +13,7 @@ def tip_calculator(price, tip)
   
   price
   
-  puts "The tip "
+  puts "The tip is #{}"
 end
 
 ## test will run this
