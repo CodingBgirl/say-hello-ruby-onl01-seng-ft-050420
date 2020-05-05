@@ -10,10 +10,11 @@ end
 # say_hello() --> "Hello Ruby Programmer"
 
 def tip_calculator(price, tip)
+  tip_amount = 
   
-  price
+  price = 
   
-  puts "The tip is #{}"
+  puts "The tip amount is #{} and the total is #{}"
 end
 
 ## test will run this
