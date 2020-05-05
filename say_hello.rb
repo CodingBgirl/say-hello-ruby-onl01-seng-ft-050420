@@ -10,7 +10,7 @@ end
 # say_hello() --> "Hello Ruby Programmer"
 
 def tip_calculator(price, tip)
-  tip_amount = 
+  tip_amount = price * tip
   
   price = 
   
