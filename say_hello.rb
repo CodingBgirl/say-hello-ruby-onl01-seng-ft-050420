@@ -9,3 +9,4 @@ end
 # and 
 # say_hello() --> "Hello Ruby Programmer"
 
+def tax_calculator
