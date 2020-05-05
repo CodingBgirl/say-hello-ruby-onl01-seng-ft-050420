@@ -9,7 +9,7 @@ end
 # and 
 # say_hello() --> "Hello Ruby Programmer"
 
-def tip_calculator(price, tip)
+def tip_calculator(price, tip = 0.2)
   tip_amount = price * tip
   
   total = price + tip_amount
